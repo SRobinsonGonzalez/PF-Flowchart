@@ -58,3 +58,7 @@ class LinkedList {
         }
     }
 }
+
+const newValue = 0;
+
+newValue = 1;
