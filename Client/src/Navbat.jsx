@@ -1,2 +1,6 @@
 v = "Hello";
-b = "Henry";
+b = "Henry O-O";
+
+let hola;
+
+hola = "hola";
